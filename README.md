@@ -1,5 +1,5 @@
 # Egyption National ID Extractor
->Extract information from egyptian national id like date of birth , place of birth , gander and much more
+>Extract information from egyptian national id like date of birth , place of birth , gender and much more
 
 
 
